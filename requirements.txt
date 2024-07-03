@@ -1,3 +1,9 @@
 pandas
 scipy
 streamlit
+numpy
+matplotlib
+seaborn
+statsmodels
+plotly
+requests
